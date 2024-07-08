@@ -22,7 +22,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 - `MySQL Server`: Install MySQL Server on your machine. You can download it from MySQL's official site.
 
 - `MySQL JDBC Driver`: Download the MySQL Connector/J from here.
--  I have attached JDBC Driver in this folder Link it to dependence file 
+-  I have attached JDBC Driver in this folder Link it to dependence `Project`.
 
 
 
